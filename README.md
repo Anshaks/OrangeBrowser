@@ -6,12 +6,12 @@
 <p align="center"><b>A Private &amp; Secure Browser</b></p>
 
 <p align="center">
-  <a href="https://github.com/KSURitam/OrangeBrowser/releases/tag/Apk">
+  <a href="https://github.com/Anshaks/OrangeBrowser/releases/tag/Apk">
     <img src="https://img.shields.io/badge/Download-APK-EA580C?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
 </p>
 
-**[⬇ Download APK](https://github.com/KSURitam/OrangeBrowser/releases/tag/Apk)**
+**[⬇ Download APK](https://github.com/Anshaks/OrangeBrowser/releases/tag/Apk)**
 ---
 
 ## About
