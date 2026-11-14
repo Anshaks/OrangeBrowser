@@ -83,3 +83,6 @@ Provided as is, without warranty. You are responsible for the sites you visit an
 ---
 
 <p align="center">Orange Browser · A Private &amp; Secure Browser</p>
+
+## Developers
+**Main Developers:** KSURitam & Anshaks
